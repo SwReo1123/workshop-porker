@@ -515,3 +515,4 @@ const childTrumprole = document.querySelector(".childTrumprole");
 //console.log("親の役の強さ:", parentRoleValue);
 //console.log("子の役の強さ:", childRoleValue);
 });
+//developへ移行
